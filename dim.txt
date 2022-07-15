@@ -1,0 +1,27 @@
+title:My Rolls
+description:Theorycrafters aside, these are rolls I think will work well for my playstyle.
+
+// Dead Man's Tale - Stable, Fast Reload (god-pve,controller,god-pvp)
+//notes: Since this gun has iron sights, I don't think more range is very useful. It has slow reload, so improving reload speed intrinsically is good, and Outlaw stacks with the exotic perk well.
+Subsistence & FTTC mean less reloading, which is nice, but doesn't stack as well?
+Increasing stability, minimizing recoil direction & bounce intensity helps to land the precision hits more reliably.
+Vorpal is good for PvP as well as Boss damage.
+
+https://www.light.gg/db/items/3654674561/dead-mans-tale/?p=3661387068,3177308360,1820235745,3465198467
+https://d2gunsmith.com/w/3654674561?s=3661387068,3177308360,1820235745,3465198467,0,0 tags:god-pve,controller,god-pvp
+dimwishlist:item=3654674561&perks=3661387068,3177308360,1168162263,3465198467
+dimwishlist:item=3654674561&perks=3661387068,3177308360,1546637391,3465198467
+
+
+// Dead Man's Tale - Stable, Reload Less (controller,pve)
+//notes: Since this gun has iron sights, I don't think more range is very useful. It has slow reload, so improving reload speed intrinsically is good, and Outlaw stacks with the exotic perk well.
+Subsistence & FTTC mean less reloading, which is nice, but doesn't stack as well?
+Increasing stability, minimizing recoil direction & bounce intensity helps to land the precision hits more reliably.
+Vorpal is good for PvP as well as Boss damage.
+
+https://www.light.gg/db/items/3654674561/dead-mans-tale/?p=3661387068,3177308360,1820235745,3465198467
+https://d2gunsmith.com/w/3654674561?s=3661387068,3177308360,1820235745,3465198467,0,0 tags:controller,pve
+dimwishlist:item=3654674561&perks=3661387068,3177308360,1820235745,3465198467
+dimwishlist:item=3654674561&perks=3661387068,3177308360,1354429876,3465198467
+
+
