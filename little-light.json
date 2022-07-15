@@ -1,0 +1,55 @@
+{
+    "description": "Theorycrafters aside, these are rolls I think will work well for my playstyle.",
+    "name": "My Rolls",
+    "data": [
+        {
+            "description": "Since this gun has iron sights, I don't think more range is very useful. It has slow reload, so improving reload speed intrinsically is good, and Outlaw stacks with the exotic perk well.\nSubsistence & FTTC mean less reloading, which is nice, but doesn't stack as well?\nIncreasing stability, minimizing recoil direction & bounce intensity helps to land the precision hits more reliably.\nVorpal is good for PvP as well as Boss damage.\n\nhttps://www.light.gg/db/items/3654674561/dead-mans-tale/?p=3661387068,3177308360,1820235745,3465198467\nhttps://d2gunsmith.com/w/3654674561?s=3661387068,3177308360,1820235745,3465198467,0,0",
+            "hash": 3654674561,
+            "name": "Stable, Fast Reload",
+            "plugs": [
+                [
+                    3661387068
+                ],
+                [
+                    3177308360
+                ],
+                [
+                    1168162263,
+                    1546637391
+                ],
+                [
+                    3465198467
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "Controller",
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "Since this gun has iron sights, I don't think more range is very useful. It has slow reload, so improving reload speed intrinsically is good, and Outlaw stacks with the exotic perk well.\nSubsistence & FTTC mean less reloading, which is nice, but doesn't stack as well?\nIncreasing stability, minimizing recoil direction & bounce intensity helps to land the precision hits more reliably.\nVorpal is good for PvP as well as Boss damage.\n\nhttps://www.light.gg/db/items/3654674561/dead-mans-tale/?p=3661387068,3177308360,1820235745,3465198467\nhttps://d2gunsmith.com/w/3654674561?s=3661387068,3177308360,1820235745,3465198467,0,0",
+            "hash": 3654674561,
+            "name": "Stable, Reload Less",
+            "plugs": [
+                [
+                    3661387068
+                ],
+                [
+                    3177308360
+                ],
+                [
+                    1820235745,
+                    1354429876
+                ],
+                [
+                    3465198467
+                ]
+            ],
+            "tags": [
+                "Controller",
+                "PVE"
+            ]
+        }
+    ]
+}
