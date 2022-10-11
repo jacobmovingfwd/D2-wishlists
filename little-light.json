@@ -50,6 +50,78 @@
                 "Controller",
                 "PVE"
             ]
+        },
+        {
+            "description": "Surplus/Wellspring for HOIL madness, to pair with Forerunner",
+            "hash": 378498222,
+            "name": "HOIL Madness",
+            "plugs": [
+                [
+                    4090651448,
+                    1840239774,
+                    1392496348,
+                    839105230,
+                    3661387068
+                ],
+                [
+                    3436462433,
+                    4071163871,
+                    3643424744
+                ],
+                [
+                    3592538738
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "Controller"
+            ]
+        },
+        {
+            "description": "Surplus/Wellspring to pair w/ HOIL & Forerunner",
+            "hash": 2607304614,
+            "name": "HOIL madness",
+            "plugs": [
+                [
+                    1840239774,
+                    1392496348,
+                    839105230
+                ],
+                [
+                    972757866,
+                    1685378950
+                ],
+                [
+                    2675361166,
+                    3592538738
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "Surplus/Wellspring for HOIL madness w/ Forerunner",
+            "hash": 409551876,
+            "name": "Surplus/Wellspring",
+            "plugs": [
+                [
+                    1840239774,
+                    4090651448,
+                    1392496348
+                ],
+                [
+                    2420895100
+                ],
+                [
+                    3436462433
+                ],
+                [
+                    3592538738
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "Controller"
+            ]
         }
     ]
 }
