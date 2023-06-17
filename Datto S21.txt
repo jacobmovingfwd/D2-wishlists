@@ -1,0 +1,196 @@
+title:Datto S21
+description:https://www.youtube.com/watch?v=X0qmLkwMHrw
+
+// Cold Comfort (pve,god-pve)
+//notes: The weapon of S21 tags:pve,god-pve
+dimwishlist:item=839786290&perks=968510818,3078487919
+
+
+// Cold Comfort (pve)
+//notes: tags:pve
+dimwishlist:item=839786290&perks=3796465595,968510818,3078487919
+dimwishlist:item=839786290&perks=3796465595,968510818,3194351027
+
+
+// BrayTech Osprey (Adept) (pve)
+//notes: tags:pve
+dimwishlist:item=1064132738&perks=3300816228,4104185692
+dimwishlist:item=1064132738&perks=3300816228,3927722942
+dimwishlist:item=1064132738&perks=968510818,4104185692
+dimwishlist:item=1064132738&perks=968510818,3927722942
+dimwishlist:item=1064132738&perks=2869569095,4104185692
+dimwishlist:item=1064132738&perks=2869569095,3927722942
+
+
+// Rapacious Appetite - PVP (god-pvp,pvp)
+//notes: tags:god-pvp,pvp
+dimwishlist:item=1081724548&perks=1428297954,365154968
+
+
+// Rapacious Appetite (pve)
+//notes: Datto recommends tags:pve
+dimwishlist:item=1081724548&perks=4104185692
+dimwishlist:item=1081724548&perks=124408337
+
+
+// New Pacific Epitaph (god-pve)
+//notes: Datto: A gun worth grinding tags:god-pve
+dimwishlist:item=1125217994&perks=3108830275,1015611457
+
+
+// New Pacific Epitaph (pve)
+//notes: tags:pve
+dimwishlist:item=1125217994&perks=3108830275,1015611457
+dimwishlist:item=1125217994&perks=3108830275,3324494224
+dimwishlist:item=1125217994&perks=3108830275,11612903
+dimwishlist:item=1125217994&perks=1556840489,1015611457
+dimwishlist:item=1125217994&perks=1556840489,3324494224
+dimwishlist:item=1125217994&perks=1556840489,11612903
+dimwishlist:item=1125217994&perks=3523296417,1015611457
+dimwishlist:item=1125217994&perks=3523296417,3324494224
+dimwishlist:item=1125217994&perks=3523296417,11612903
+
+
+// Just in Case (pve)
+//notes: tags:pve
+dimwishlist:item=1139727256&perks=1749209109,4293542123
+dimwishlist:item=1139727256&perks=2590710093,4293542123
+dimwishlist:item=1139727256&perks=3108830275,4293542123
+
+
+// Sole Survivor (pve)
+//notes: tags:pve
+dimwishlist:item=1150492185&perks=247725512,1771339417
+dimwishlist:item=1150492185&perks=247725512,2896038713
+dimwishlist:item=1150492185&perks=2869569095,1771339417
+dimwishlist:item=1150492185&perks=2869569095,2896038713
+
+
+// Outlast (pvp)
+//notes: tags:pvp
+dimwishlist:item=1678205741&perks=2846385770,1015611457
+
+
+// Outlast (pve)
+//notes: tags:pve
+dimwishlist:item=1678205741&perks=1168162263,1015611457
+dimwishlist:item=1678205741&perks=1168162263,3523296417
+
+
+// Greasy Luck (pve)
+//notes: tags:pve
+dimwishlist:item=1757202961&perks=1966281507,1782407750
+
+
+// A Distant Pull (pve)
+//notes: tags:pve
+dimwishlist:item=1769847435&perks=3400784728,2896038713
+dimwishlist:item=1769847435&perks=3643424744,2896038713
+
+
+// Irukandji (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2673925403&perks=3250034553,106909392,1354429876,1771339417
+
+
+// Bug-Out Bag (pve)
+//notes: Good replacement for Calus Mini Tool tags:pve
+dimwishlist:item=2832639510&perks=1820235745,4293542123
+
+
+// Until Its Return (pve)
+//notes: Datto recommends tags:pve
+dimwishlist:item=2883484461&perks=3643424744,3324494224
+dimwishlist:item=2883484461&perks=3643424744,2360754333
+dimwishlist:item=2883484461&perks=3643424744,3751912585
+dimwishlist:item=2883484461&perks=3300816228,3324494224
+dimwishlist:item=2883484461&perks=3300816228,2360754333
+dimwishlist:item=2883484461&perks=3300816228,3751912585
+
+
+// Different Times - PvE (pve)
+//notes: tags:pve
+dimwishlist:item=3016891299&perks=1168162263,11612903
+dimwishlist:item=3016891299&perks=1168162263,831391274
+dimwishlist:item=3016891299&perks=1820235745,11612903
+dimwishlist:item=3016891299&perks=1820235745,831391274
+
+
+// Loaded Question (pve)
+//notes: tags:pve
+dimwishlist:item=3125454907&perks=3300816228,2594592626
+dimwishlist:item=3125454907&perks=3643424744,2594592626
+
+
+// Spare Rations - PvP (pvp)
+//notes: tags:pvp
+dimwishlist:item=3236112986&perks=3161816588,47981717
+
+
+// Spare Rations (pve,pvp)
+//notes: tags:pve,pvp
+dimwishlist:item=3236112986&perks=247725512,1015611457
+
+
+// Spare Rations (pve)
+//notes: Datto recommends tags:pve
+dimwishlist:item=3236112986&perks=1820235745,3891536761
+dimwishlist:item=3236112986&perks=247725512,3891536761
+
+
+// No Survivors (pvp)
+//notes: tags:pvp
+dimwishlist:item=3262192268&perks=2846385770,365154968
+
+
+// No Survivors (pve)
+//notes: tags:pve
+dimwishlist:item=3262192268&perks=3523296417,4293542123
+
+
+// Randy's Throwing Knife (pve)
+//notes: tags:pve
+dimwishlist:item=3292795429&perks=247725512,1015611457
+dimwishlist:item=3292795429&perks=247725512,3891536761
+
+
+// Randy's Throwing Knife (pvp)
+//notes: tags:pvp
+dimwishlist:item=3292795429&perks=247725512,1015611457
+dimwishlist:item=3292795429&perks=247725512,3751912585
+
+
+// BrayTech Osprey (pve)
+//notes: tags:pve
+dimwishlist:item=3667553455&perks=3300816228,3927722942
+dimwishlist:item=3667553455&perks=3300816228,4104185692
+dimwishlist:item=3667553455&perks=968510818,3927722942
+dimwishlist:item=3667553455&perks=968510818,4104185692
+dimwishlist:item=3667553455&perks=2869569095,3927722942
+dimwishlist:item=3667553455&perks=2869569095,4104185692
+
+
+// Targeted Redaction (pve)
+//notes: tags:pve
+dimwishlist:item=3890055324&perks=1168162263,2048641572
+dimwishlist:item=3890055324&perks=1168162263,3038247973
+
+
+// Thin Precipice (pve)
+//notes: tags:pve
+dimwishlist:item=4066778670&perks=2590710093,831391274
+dimwishlist:item=4066778670&perks=2590710093,2396489472
+dimwishlist:item=4066778670&perks=3108830275,831391274
+dimwishlist:item=4066778670&perks=3108830275,2396489472
+dimwishlist:item=4066778670&perks=1749209109,831391274
+dimwishlist:item=4066778670&perks=1749209109,2396489472
+
+
+// Last Man Standing (pve)
+//notes: tags:pve
+dimwishlist:item=4287947559&perks=1820235745,2679249093
+dimwishlist:item=4287947559&perks=1820235745,3978468247
+dimwishlist:item=4287947559&perks=47981717,2679249093
+dimwishlist:item=4287947559&perks=47981717,3978468247
+
+
