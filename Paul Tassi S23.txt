@@ -1,0 +1,69 @@
+title:Paul Tassi S23
+
+// Vengeful Whisper (pvp)
+//notes: tags:pvp
+dimwishlist:item=839344841&perks=923806249,2652708987
+
+
+// Vengeful Whisper (pve)
+//notes: tags:pve
+dimwishlist:item=839344841&perks=3365897133,831391274
+
+
+// Subjunctive ()
+dimwishlist:item=1447836603&perks=1583705720,1720528630
+dimwishlist:item=1447836603&perks=1583705720,2173046394
+dimwishlist:item=1447836603&perks=1409206216,1720528630
+dimwishlist:item=1447836603&perks=1409206216,2173046394
+
+
+// Doomed Petitioner ()
+dimwishlist:item=1501688142&perks=968510818,555281244
+dimwishlist:item=1501688142&perks=968510818,332733060
+dimwishlist:item=1501688142&perks=424370782,555281244
+dimwishlist:item=1501688142&perks=424370782,332733060
+
+
+// Crux Termination IV ()
+dimwishlist:item=1719687748&perks=1523832109,1439600632
+
+
+// Breakneck ()
+dimwishlist:item=2026755633&perks=1820235745,95528736
+
+
+// Breakneck ()
+dimwishlist:item=2026755633&perks=691659142,3523296417
+
+
+// Scatter Signal (pve,controller)
+//notes: tags:pve,controller
+dimwishlist:item=2558925366&perks=923806249,2594592626
+dimwishlist:item=2558925366&perks=923806249,2037312142
+dimwishlist:item=2558925366&perks=3422796781,2594592626
+dimwishlist:item=2558925366&perks=3422796781,2037312142
+dimwishlist:item=2558925366&perks=3643424744,2594592626
+dimwishlist:item=2558925366&perks=3643424744,2037312142
+dimwishlist:item=2558925366&perks=2682205016,2594592626
+dimwishlist:item=2558925366&perks=2682205016,2037312142
+
+
+// Adhortative ()
+dimwishlist:item=2993554824&perks=3017780555,4293542123
+dimwishlist:item=2993554824&perks=3017780555,2675184851
+dimwishlist:item=2993554824&perks=2779035018,4293542123
+dimwishlist:item=2993554824&perks=2779035018,2675184851
+dimwishlist:item=2993554824&perks=1171147302,4293542123
+dimwishlist:item=2993554824&perks=1171147302,2675184851
+dimwishlist:item=2993554824&perks=4223976499,4293542123
+dimwishlist:item=2993554824&perks=4223976499,2675184851
+
+
+// Indebted Kindness ()
+dimwishlist:item=3381450498&perks=1556840489,3708227201
+
+
+// Indebted Kindness ()
+dimwishlist:item=3381450498&perks=951095735,2173046394
+
+
