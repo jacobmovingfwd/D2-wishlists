@@ -1,0 +1,704 @@
+{
+    "description": "",
+    "name": "Brave - Datto Fallout",
+    "data": [
+        {
+            "description": "",
+            "hash": 2763843899,
+            "name": "Fallout",
+            "plugs": [
+                [
+                    3017780555
+                ],
+                [
+                    4293542123
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2763843899,
+            "name": "",
+            "plugs": [
+                [
+                    3161816588,
+                    1195158366,
+                    699525795
+                ],
+                [
+                    2720533289,
+                    555281244
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "Boss Damage",
+            "hash": 1896309757,
+            "name": "Boss Damage",
+            "plugs": [
+                [
+                    1354429876
+                ],
+                [
+                    365154968
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Add Clear",
+            "hash": 1896309757,
+            "name": "Add Clear",
+            "plugs": [
+                [
+                    2420895100
+                ],
+                [
+                    968510818
+                ],
+                [
+                    557221067
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1896309757,
+            "name": "Add Clear",
+            "plugs": [
+                [
+                    2048641572
+                ],
+                [
+                    557221067
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "Add Clear & GM",
+            "hash": 1896309757,
+            "name": "Add Clear",
+            "plugs": [
+                [
+                    3425386926
+                ],
+                [
+                    557221067
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Datto",
+            "hash": 1896309757,
+            "name": "Datto",
+            "plugs": [
+                [
+                    968510818,
+                    3418782618
+                ],
+                [
+                    557221067
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Want low blast radius, it messes up impact damage\nMW: Reoload, Handling",
+            "hash": 568611922,
+            "name": "Fallout",
+            "plugs": [
+                [
+                    981914802
+                ],
+                [
+                    3492396210,
+                    3301904089
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    469285294
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 568611922,
+            "name": "Heavy Hitter",
+            "plugs": [
+                [
+                    981914802
+                ],
+                [
+                    3301904089,
+                    3492396210
+                ],
+                [
+                    2010801679,
+                    3643424744,
+                    3300816228
+                ],
+                [
+                    469285294
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 568611922,
+            "name": "",
+            "plugs": [
+                [
+                    981914802
+                ],
+                [
+                    3301904089,
+                    3492396210
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "constant use",
+            "hash": 568611922,
+            "name": "Constant Use",
+            "plugs": [
+                [
+                    981914802
+                ],
+                [
+                    3301904089,
+                    3492396210
+                ],
+                [
+                    2010801679,
+                    951095735,
+                    1556840489
+                ],
+                [
+                    4049631843,
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Datto - Boss",
+            "hash": 568611922,
+            "name": "Boss",
+            "plugs": [
+                [
+                    981914802
+                ],
+                [
+                    3492396210,
+                    3301904089
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    1546637391,
+                    469285294
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Datto - Generalist. Rampage is bad on this weapon.",
+            "hash": 568611922,
+            "name": "Generalist",
+            "plugs": [
+                [
+                    981914802
+                ],
+                [
+                    3301904089,
+                    3492396210
+                ],
+                [
+                    2010801679
+                ],
+                [
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2763843898,
+            "name": "",
+            "plugs": [
+                [
+                    3824105627,
+                    3700496672,
+                    243981275
+                ],
+                [
+                    3891536761
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2763843898,
+            "name": "",
+            "plugs": [
+                [
+                    3824105627,
+                    3038247973
+                ],
+                [
+                    3425386926,
+                    4049631843,
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "heavy hitter with damage bonuses",
+            "hash": 2763843898,
+            "name": "Heavy Hitter",
+            "plugs": [
+                [
+                    3038247973
+                ],
+                [
+                    4049631843,
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2763843898,
+            "name": "Generalist",
+            "plugs": [
+                [
+                    3824105627
+                ],
+                [
+                    3891536761
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2763843898,
+            "name": "",
+            "plugs": [
+                [
+                    3038247973
+                ],
+                [
+                    2387244414,
+                    2109543898
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "datto",
+            "hash": 2763843898,
+            "name": "datto",
+            "plugs": [
+                [
+                    3824105627,
+                    3038247973
+                ],
+                [
+                    3891536761
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "datto",
+            "hash": 2763843898,
+            "name": "datto",
+            "plugs": [
+                [
+                    3824105627
+                ],
+                [
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 568611921,
+            "name": "Add Clear",
+            "plugs": [
+                [
+                    2010801679
+                ],
+                [
+                    2396489472,
+                    2610012052,
+                    2109543898,
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Datto",
+            "hash": 568611921,
+            "name": "Datto",
+            "plugs": [
+                [
+                    2010801679
+                ],
+                [
+                    2396489472,
+                    4049631843,
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 568611921,
+            "name": "",
+            "plugs": [
+                [
+                    1583705720
+                ],
+                [
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "datto",
+            "hash": 3612338554,
+            "name": "Datto",
+            "plugs": [
+                [
+                    1523832109
+                ],
+                [
+                    469285294
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "#bossdamage",
+            "hash": 1815105249,
+            "name": "Boss",
+            "plugs": [
+                [
+                    4104185692,
+                    1546637391
+                ],
+                [
+                    3708227201,
+                    3078487919,
+                    31345821
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "add clear",
+            "hash": 1815105249,
+            "name": "Add Clear",
+            "plugs": [
+                [
+                    2396489472
+                ],
+                [
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1815105249,
+            "name": "",
+            "plugs": [
+                [
+                    1749209109
+                ],
+                [
+                    3913600130
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1815105249,
+            "name": "",
+            "plugs": [
+                [
+                    1546637391
+                ],
+                [
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Void",
+            "hash": 1815105249,
+            "name": "Void",
+            "plugs": [
+                [
+                    2396489472,
+                    776531651
+                ],
+                [
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1050806815,
+            "name": "",
+            "plugs": [
+                [
+                    1359896290
+                ],
+                [
+                    3081867624
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1050806815,
+            "name": "",
+            "plugs": [
+                [
+                    776531651
+                ],
+                [
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1050806815,
+            "name": "",
+            "plugs": [
+                [
+                    1820235745
+                ],
+                [
+                    3081867624,
+                    4104185692,
+                    2109543898
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2372514508,
+            "name": "",
+            "plugs": [
+                [
+                    3891536761
+                ],
+                [
+                    3824105627,
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "#bossdamage",
+            "hash": 568611923,
+            "name": "Boss Damage",
+            "plugs": [
+                [
+                    968510818
+                ],
+                [
+                    3078487919
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Void",
+            "hash": 568611923,
+            "name": "Void",
+            "plugs": [
+                [
+                    2396489472,
+                    776531651
+                ],
+                [
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1453235079,
+            "name": "",
+            "plugs": [
+                [
+                    3418782618
+                ],
+                [
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1453235079,
+            "name": "",
+            "plugs": [
+                [
+                    3891536761
+                ],
+                [
+                    3824105627
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 1453235079,
+            "name": "",
+            "plugs": [
+                [
+                    247725512
+                ],
+                [
+                    2109543898
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Void",
+            "hash": 2372514509,
+            "name": "Void",
+            "plugs": [
+                [
+                    776531651
+                ],
+                [
+                    2048641572
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        }
+    ]
+}
