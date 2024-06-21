@@ -1,0 +1,306 @@
+title:S24 - Echoes
+description:Datto & Tassi
+
+
+// Bold Endings (god-pve)
+//notes: The reason being it pairs perfectly with Stasis Titan and its insane crystal generation. Any crystal from any ability will proc to trigger Golden Tricorn x2, and Headstone just tacks on even more for Tectonic Harvest and Whisper of Shards to feed off of. I recommend just going all into range and reload on this thing as it doesn’t move even at 34 stability.  tags:god-pve
+dimwishlist:item=496728945&perks=124408337,2610012052
+dimwishlist:item=496728945&perks=124408337,4290541820
+dimwishlist:item=496728945&perks=1171887445,2610012052
+dimwishlist:item=496728945&perks=1171887445,4290541820
+
+
+// Bold Endings (pve)
+//notes: tags:pve
+dimwishlist:item=496728945&perks=124408337,169755979
+dimwishlist:item=496728945&perks=124408337,2848615171
+dimwishlist:item=496728945&perks=124408337,2109543898
+dimwishlist:item=496728945&perks=124408337,2610012052
+dimwishlist:item=496728945&perks=124408337,2799030358
+dimwishlist:item=496728945&perks=124408337,4290541820
+dimwishlist:item=496728945&perks=1171887445,169755979
+dimwishlist:item=496728945&perks=1171887445,2848615171
+dimwishlist:item=496728945&perks=1171887445,2109543898
+dimwishlist:item=496728945&perks=1171887445,2610012052
+dimwishlist:item=496728945&perks=1171887445,2799030358
+dimwishlist:item=496728945&perks=1171887445,4290541820
+
+
+// Bold Endings (pvp)
+//notes: tags:pvp
+dimwishlist:item=496728945&perks=3938834702,699525795
+dimwishlist:item=496728945&perks=3938834702,3719974635
+dimwishlist:item=496728945&perks=3416609154,699525795
+dimwishlist:item=496728945&perks=3416609154,3719974635
+
+
+// Timeworn Wayfarer (pve)
+//notes: The classic combo, though a word of caution here, this gun may not trigger Heal Clip as well as others, so you’ll have to test it to see if you think it’s worth it. tags:pve
+dimwishlist:item=1058098236&perks=3017780555,4293542123
+dimwishlist:item=1058098236&perks=3017780555,2675184851
+dimwishlist:item=1058098236&perks=4223976499,4293542123
+dimwishlist:item=1058098236&perks=4223976499,2675184851
+
+
+// Timeworn Wayfarer (pve)
+//notes: Now we’re talking. You may not know this but Dual Loader was buffed so it does not decrease reload speed at all anymore, so for a gun like this you can fully load it fast now. And with no Outlaw, this may be your best option outside of maybe Keep Away, which is another option. tags:pve
+dimwishlist:item=1058098236&perks=25606670,4293542123
+dimwishlist:item=1058098236&perks=25606670,2109543898
+dimwishlist:item=1058098236&perks=25606670,2675184851
+dimwishlist:item=1058098236&perks=25606670,2799030358
+dimwishlist:item=1058098236&perks=3619207468,4293542123
+dimwishlist:item=1058098236&perks=3619207468,2109543898
+dimwishlist:item=1058098236&perks=3619207468,2675184851
+dimwishlist:item=1058098236&perks=3619207468,2799030358
+dimwishlist:item=1058098236&perks=3143051906,4293542123
+dimwishlist:item=1058098236&perks=3143051906,2109543898
+dimwishlist:item=1058098236&perks=3143051906,2675184851
+dimwishlist:item=1058098236&perks=3143051906,2799030358
+dimwishlist:item=1058098236&perks=3198323828,4293542123
+dimwishlist:item=1058098236&perks=3198323828,2109543898
+dimwishlist:item=1058098236&perks=3198323828,2675184851
+dimwishlist:item=1058098236&perks=3198323828,2799030358
+
+
+// Timeworn Wayfarer (pvp)
+//notes: PvP, give it a shot. tags:pvp
+dimwishlist:item=1058098236&perks=3938834702,47981717
+dimwishlist:item=1058098236&perks=3938834702,699525795
+dimwishlist:item=1058098236&perks=3938834702,1370847713
+dimwishlist:item=1058098236&perks=3938834702,3719974635
+dimwishlist:item=1058098236&perks=3416609154,47981717
+dimwishlist:item=1058098236&perks=3416609154,699525795
+dimwishlist:item=1058098236&perks=3416609154,1370847713
+dimwishlist:item=1058098236&perks=3416609154,3719974635
+
+
+// Lost Signal (pve)
+//notes: I find it hard to use essentially any breach grenade launcher without autoloading, but this brand new type of frame does work a little differently than others. But if I did want to stick with this, I’d pick Demo or Vorpal for the second slot depending on what I was using it for. tags:pve
+dimwishlist:item=1197771438&perks=3528046508,1906147653
+dimwishlist:item=1197771438&perks=3528046508,3418165135
+dimwishlist:item=1197771438&perks=3528046508,3523296417
+dimwishlist:item=1197771438&perks=3528046508,1546637391
+dimwishlist:item=1197771438&perks=3300816228,1906147653
+dimwishlist:item=1197771438&perks=3300816228,3418165135
+dimwishlist:item=1197771438&perks=3300816228,3523296417
+dimwishlist:item=1197771438&perks=3300816228,1546637391
+
+
+// Lost Signal ()
+//notes: The new AOE frame means you are often hitting a bunch of enemies at once, so this combo to give you a fast reload boost after also procing One for All for a big damage increase is a good option if you ask me.
+dimwishlist:item=1197771438&perks=1583705720,4049631843
+dimwishlist:item=1197771438&perks=1583705720,859780267
+dimwishlist:item=1197771438&perks=1409206216,4049631843
+dimwishlist:item=1197771438&perks=1409206216,859780267
+
+
+// Lost Signal ()
+//notes: I’m not quite sold on this new perk yet, which increases AOE after kills, but if you want to see how it goes I’d use either of these two in the first column.
+dimwishlist:item=1197771438&perks=1409206216,2167611941
+dimwishlist:item=1197771438&perks=1409206216,563069569
+dimwishlist:item=1197771438&perks=3442762221,2167611941
+dimwishlist:item=1197771438&perks=3442762221,563069569
+dimwishlist:item=1197771438&perks=1556840489,2167611941
+dimwishlist:item=1197771438&perks=1556840489,563069569
+dimwishlist:item=1197771438&perks=1583705720,2167611941
+dimwishlist:item=1197771438&perks=1583705720,563069569
+
+
+// No Hesitation (pve)
+//notes: tags:pve
+dimwishlist:item=1801007332&perks=4063561849,3007133316
+dimwishlist:item=1801007332&perks=4063561849,4104185692
+dimwishlist:item=1801007332&perks=4063561849,243981275
+dimwishlist:item=1801007332&perks=4063561849,984655331
+dimwishlist:item=1801007332&perks=2980589453,3007133316
+dimwishlist:item=1801007332&perks=2980589453,4104185692
+dimwishlist:item=1801007332&perks=2980589453,243981275
+dimwishlist:item=1801007332&perks=2980589453,984655331
+
+
+// Sightline Survey (pve)
+//notes: You’ll need something to trigger faster reload for Voltshot, and once you have that, this feels great. tags:pve
+dimwishlist:item=2350330520&perks=3828510309,2173046394
+dimwishlist:item=2350330520&perks=3828510309,1720528630
+dimwishlist:item=2350330520&perks=3619207468,2173046394
+dimwishlist:item=2350330520&perks=3619207468,1720528630
+dimwishlist:item=2350330520&perks=1771736209,2173046394
+dimwishlist:item=2350330520&perks=1771736209,1720528630
+dimwishlist:item=2350330520&perks=3198323828,2173046394
+dimwishlist:item=2350330520&perks=3198323828,1720528630
+
+
+// Sightline Survey (pvp)
+//notes: One of those should result in a decent PvP combo. tags:pvp
+dimwishlist:item=2350330520&perks=3828510309,47981717
+dimwishlist:item=2350330520&perks=3828510309,699525795
+dimwishlist:item=2350330520&perks=3828510309,555281244
+dimwishlist:item=2350330520&perks=3828510309,3719974635
+dimwishlist:item=2350330520&perks=3828510309,332733060
+dimwishlist:item=2350330520&perks=3828510309,1370847713
+dimwishlist:item=2350330520&perks=1771736209,47981717
+dimwishlist:item=2350330520&perks=1771736209,699525795
+dimwishlist:item=2350330520&perks=1771736209,555281244
+dimwishlist:item=2350330520&perks=1771736209,3719974635
+dimwishlist:item=2350330520&perks=1771736209,332733060
+dimwishlist:item=2350330520&perks=1771736209,1370847713
+
+
+// Embraced Identity (pve)
+//notes: Poor man's Supremacy w/ backup mag mod tags:pve
+dimwishlist:item=2821677368&perks=1087426260,3418782618,1354429876
+dimwishlist:item=2821677368&perks=1087426260,3418782618,848860060
+dimwishlist:item=2821677368&perks=1087426260,1563455254,1354429876
+dimwishlist:item=2821677368&perks=1087426260,1563455254,848860060
+
+
+// Embraced Identity (pve)
+//notes: for Witness specifically tags:pve
+dimwishlist:item=2821677368&perks=461595545,2319119708
+dimwishlist:item=2821677368&perks=461595545,2140591236
+dimwishlist:item=2821677368&perks=1523832109,2319119708
+dimwishlist:item=2821677368&perks=1523832109,2140591236
+
+
+// Someday (pve)
+//notes: tags:pve
+dimwishlist:item=3232203524&perks=1556840489,469285294
+dimwishlist:item=3232203524&perks=1556840489,3335686050
+dimwishlist:item=3232203524&perks=3442762221,469285294
+dimwishlist:item=3232203524&perks=3442762221,3335686050
+
+
+// Someday (pvp)
+//notes: tags:pvp
+dimwishlist:item=3232203524&perks=4071163871,47981717
+dimwishlist:item=3232203524&perks=4071163871,1370847713
+dimwishlist:item=3232203524&perks=494941759,47981717
+dimwishlist:item=3232203524&perks=494941759,1370847713
+
+
+// Pro Memoria (pve)
+//notes: single-target tags:pve
+dimwishlist:item=3605603507&perks=968510818,365154968
+dimwishlist:item=3605603507&perks=968510818,2939589096
+dimwishlist:item=3605603507&perks=1523832109,365154968
+dimwishlist:item=3605603507&perks=1523832109,2939589096
+dimwishlist:item=3605603507&perks=424370782,365154968
+dimwishlist:item=3605603507&perks=424370782,2939589096
+dimwishlist:item=3605603507&perks=461595545,365154968
+dimwishlist:item=3605603507&perks=461595545,2939589096
+
+
+// Pro Memoria (pve)
+//notes: Add clear tags:pve
+dimwishlist:item=3605603507&perks=831391274,2109543898
+dimwishlist:item=3605603507&perks=831391274,2799030358
+dimwishlist:item=3605603507&perks=102912326,2109543898
+dimwishlist:item=3605603507&perks=102912326,2799030358
+
+
+// Veiled Threat (pve)
+//notes: Obviously this is built-dependent, but with a lot of Prismatic stuff being class ability-focused, you may want the new perk that allows you to get that energy back. tags:pve
+dimwishlist:item=3685470415&perks=880644845,124408337
+dimwishlist:item=3685470415&perks=880644845,2109543898
+dimwishlist:item=3685470415&perks=880644845,2799030358
+dimwishlist:item=3685470415&perks=880644845,1171887445
+dimwishlist:item=3685470415&perks=3120212825,124408337
+dimwishlist:item=3685470415&perks=3120212825,2109543898
+dimwishlist:item=3685470415&perks=3120212825,2799030358
+dimwishlist:item=3685470415&perks=3120212825,1171887445
+
+
+// Veiled Threat (pve)
+//notes: Shattering those crystals on a Stasis build is a recipe to get a lot of shards, plus there’s a new fragment that can give you shards on normal Stasis kill, so that may make Loose Change a frequent benefit. tags:pve
+dimwishlist:item=3685470415&perks=561986700,1171887445
+dimwishlist:item=3685470415&perks=561986700,124408337
+dimwishlist:item=3685470415&perks=1119449540,1171887445
+dimwishlist:item=3685470415&perks=1119449540,124408337
+
+
+// Veiled Threat (pvp)
+//notes: A possible PvP roll using a new perk that strengthens a gun’s handling and aim assist while taking damage. tags:pvp
+dimwishlist:item=3685470415&perks=3938834702,1365187766
+dimwishlist:item=3685470415&perks=3938834702,4200236906
+dimwishlist:item=3685470415&perks=3416609154,1365187766
+dimwishlist:item=3685470415&perks=3416609154,4200236906
+
+
+// Ill Omen (pve)
+//notes: Look man I don’t know what to tell you, legendary swords are pretty boring, and now we have Ergo Sum so… tags:pve
+dimwishlist:item=3794274730&perks=1749209109,3708227201
+dimwishlist:item=3794274730&perks=1749209109,3913600130
+dimwishlist:item=3794274730&perks=1749209109,3650930298
+dimwishlist:item=3794274730&perks=1749209109,781192741
+dimwishlist:item=3794274730&perks=1749209109,147913470
+dimwishlist:item=3794274730&perks=1749209109,405677814
+
+
+// Axial Lacuna (pve,god-pve)
+//notes: tags:pve,god-pve
+dimwishlist:item=3867373351&perks=1523832109,2594592626
+dimwishlist:item=3867373351&perks=1523832109,2037312142
+dimwishlist:item=3867373351&perks=461595545,2594592626
+dimwishlist:item=3867373351&perks=461595545,2037312142
+
+
+// The Call (pve)
+//notes: tags:pve
+dimwishlist:item=3947966653&perks=880644845,2610012052
+dimwishlist:item=3947966653&perks=880644845,4290541820
+dimwishlist:item=3947966653&perks=3120212825,2610012052
+dimwishlist:item=3947966653&perks=3120212825,4290541820
+
+
+// The Call (pve)
+//notes: tags:pve
+dimwishlist:item=3947966653&perks=1409206216,859780267
+dimwishlist:item=3947966653&perks=1409206216,4049631843
+dimwishlist:item=3947966653&perks=1583705720,859780267
+dimwishlist:item=3947966653&perks=1583705720,4049631843
+
+
+// The Call (pve)
+//notes: tags:pve
+dimwishlist:item=3947966653&perks=2859149211,4049631843
+dimwishlist:item=3947966653&perks=2859149211,859780267
+dimwishlist:item=3947966653&perks=1135494563,4049631843
+dimwishlist:item=3947966653&perks=1135494563,859780267
+
+
+// Faith-Keeper (pve)
+//notes:  An interesting combo here as the second shot from Clown Cartridge would have a larger AOE if you got a kill on the previous rocket. tags:pve
+dimwishlist:item=4195186942&perks=2284787283,563069569
+dimwishlist:item=4195186942&perks=2284787283,2167611941
+dimwishlist:item=4195186942&perks=3563868667,563069569
+dimwishlist:item=4195186942&perks=3563868667,2167611941
+
+
+// Faith-Keeper (pve)
+//notes: A more traditional roll for a rocket that doesn’t exactly make it super unique. tags:pve
+dimwishlist:item=4195186942&perks=3300816228,2275087323
+dimwishlist:item=4195186942&perks=3300816228,1167468626
+dimwishlist:item=4195186942&perks=3300816228,3194351027
+dimwishlist:item=4195186942&perks=3300816228,3927722942
+dimwishlist:item=4195186942&perks=3528046508,2275087323
+dimwishlist:item=4195186942&perks=3528046508,1167468626
+dimwishlist:item=4195186942&perks=3528046508,3194351027
+dimwishlist:item=4195186942&perks=3528046508,3927722942
+
+
+// Faith-Keeper (pve)
+//notes: A way to get more ammo reserves and also a second rocket after a thrown grenade. Again, sort of standard. tags:pve
+dimwishlist:item=4195186942&perks=2869569095,1906147653
+dimwishlist:item=4195186942&perks=2869569095,3523296417
+dimwishlist:item=4195186942&perks=2308090567,1906147653
+dimwishlist:item=4195186942&perks=2308090567,3523296417
+
+
+// False Idols (pve)
+//notes: tags:pve
+dimwishlist:item=4207120603&perks=4293542123,2396489472
+dimwishlist:item=4207120603&perks=4293542123,598607952
+dimwishlist:item=4207120603&perks=2675184851,2396489472
+dimwishlist:item=4207120603&perks=2675184851,598607952
+
+
